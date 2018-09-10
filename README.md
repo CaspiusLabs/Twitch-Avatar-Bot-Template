@@ -1,7 +1,7 @@
 # Twitch Avatar Bot Template
 
 This is starting point for your customized twitch avatar bot:
-
+------
 
 1. Download files, change oauth and channel name in config.js.
 2. You will need your own avatar sprites with idle, walking and sleeping animations in each direction.
@@ -12,8 +12,7 @@ This is starting point for your customized twitch avatar bot:
 
    (You can also capture browser window with the bot running and add a chroma key to setup transparency.)
 5. Presto! Bot is running and waiting for the commands and events on your channel!
-
-
+------
 
 Default command are !help !commands !stop !walk !sleep.
 
