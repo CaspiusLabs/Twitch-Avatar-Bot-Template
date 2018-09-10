@@ -1,6 +1,6 @@
 # Twitch Avatar Bot Template
 
-### This is starting point for your customized twitch avatar bot:
+### This is starting point for your customized twitch avatar bot in javascript and html:
 
 1. Download files, change oauth and channel name in **js/config.js**.
 2. Download Tapic.js and Phaser CE libraries in to **js/libs** folder.
