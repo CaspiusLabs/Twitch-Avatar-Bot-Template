@@ -4,7 +4,7 @@ This is starting point for your customized twitch avatar bot:
 
 1. Download files, change oauth and channel name in config.js.
 2. You will need your own avatar sprites with idle, walking and sleeping animations in each direction.
-3. Check out Phaser docs to learn how to add your own custom sprites and animations.
+   (Check out Phaser docs to learn how to add your own custom sprites and animations.)
 3. All files must be hosted on a web server or localhost.
 4. Open your OBS browser component and paste adress to the index.html.
 5. You can also capture browser window with chroma key.
