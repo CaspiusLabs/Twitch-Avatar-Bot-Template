@@ -12,6 +12,8 @@ This is starting point for your customized twitch avatar bot:
    (You can also capture browser window with the bot running and add a chroma key to setup transparency.)
 5. Presto! Bot is running and waiting for the commands and events on your channel!
 
+___
+
 Default command are !help !commands !stop !walk !sleep.
 
 Feel free to add your own commands and avatar stances!
