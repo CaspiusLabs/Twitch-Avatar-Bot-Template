@@ -2,8 +2,8 @@
 
 	// Messages
 
-	var Commands = 'Available commands: !help !commands !hatch !stop !move !sleep';
-	var Help = 'Talk in chat or use !hatch command, to spawn your avatar! Control your avatar with commands! Your avatar will have your chat user name color!';
+	var Commands = 'Available commands: !help !commands !spawn !stop !move !sleep';
+	var Help = 'Talk in chat or use !spawn command, to spawn your avatar! Control your avatar with commands! Your avatar will have your chat user name color!';
 
 
 	// Join channel
@@ -113,7 +113,7 @@
 				sleepAvatar(data);
 				break;
 				
-			case '!hatch':
+			case '!spawn':
 				spawnAvatar(data);
 				
 			default:
