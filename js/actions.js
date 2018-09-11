@@ -31,7 +31,7 @@
 			} else {
 				var data = {name: e, color: '#000000'};
 			}
-			spawnEgg(data);
+			spawnAvatar(data);
 		}
 		
 	});
