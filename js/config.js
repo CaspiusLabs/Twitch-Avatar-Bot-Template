@@ -1,0 +1,2 @@
+var oauth = '';
+var channel = '';
